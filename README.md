@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/tompadz/profileInfo/blob/main/ezgif-1-9cb1e00ca5.gif?raw=true" width="150"/>
-</div>
 <h3 align="center">
   Is anyone really going to read this?🤔
 </h3>
