@@ -1,5 +1,5 @@
 <h3 align="center">
-  Is anyone really going to read this?🤔
+  Igor Zakharov
 </h3>
 <div id="badges" align="center">
   <a href="https://t.me/dapadz">
@@ -9,9 +9,20 @@
 <h2>
   About Me:
 </h2>
-<div>
-  Okay, if someone is really reading this, my name is Igor🙃, I'm a developer from Russia.</br>
-  I mainly do mobile development, my main languages are <strong>Kotlin</strong>, <strong>Java</strong>. I also write in <strong>Swift</strong>, <strong>C#</strong>
-</br></br>
- <strong>Programming is now my life</strong>, what I do every day and what brings me great pleasure. For all the time I managed to try myself in different languages and projects. Learning new languages or technologies is always very interesting and <strong>I'm always happy to try my hand at something else</strong>.
+
+Mobile developer with over 3 years of experience. I have experience working with Android and iOS platforms. My profile is focused on mobile application development for the Android platform, as well as working with graphics programs. I started my path in programming at the age of 13 and since then have continuously improved my skills and expanded my knowledge in the field of development. I specialize in programming languages Kotlin, Java, C#, and also have experience working with React Js, C++, and Swift.
+
+I strive to maintain high performance and quality of my projects, using new technologies and development methods. My technology stack includes:
+
+- Libraries for HTTP requests - ktor and retrofit;
+- For asynchronous programming, I use kotlin coroutine and flow
+- For DI, I use dagger hilt or kodein;
+- I prefer custom view for UI implementation, learning jetpack compose, and of course, XML;
+- Worked with architectural patterns - MVVM, Moxy MVP, MVC;
+- Used room and data storage for local data storage;
+- Have experience working with cross-platform KMM, React Native;
+- I also have experience working with RxJava, Firebase SDK, Vk SDK, and Telegram SDK.
+- Since the main repository storage service is bitbucket, my github is not very active. I mainly leave projects there that were made for testing some new libraries, methods, etc.
+
+I am always ready for new challenges and strive for development as a specialist in my field. I constantly learn new technologies and development methods, and often create my own projects to try something new. I am confident that my experience, knowledge, and professionalism can make me a valuable addition to any software development team..
  
